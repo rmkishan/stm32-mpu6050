@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# STM32CubeIDE local metadata
+.metadata/
+.settings/
