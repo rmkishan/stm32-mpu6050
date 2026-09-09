@@ -93,8 +93,8 @@ const osMessageQueueAttr_t IMUQueue_attributes = {
 volatile SystemState system_state = SYSTEM_BOOT;
 volatile SystemError system_error = ERROR_NONE;
 
-volatile uint_32 sensor_heartbeat=  0 ;
-volatile uint_32 control_heartbeat = 0;
+volatile uint32_t sensor_heartbeat=  0 ;
+volatile uint32_t  control_heartbeat = 0;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
